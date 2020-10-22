@@ -1,0 +1,167 @@
+local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
+
+local UI = Material.Load({
+     Title = "Retard Hub",
+     Style = 3,
+     SizeX = 400,
+     SizeY = 100,
+     Theme = "Dark"
+})
+
+local Page = UI.New({
+    Title = "Main"
+})
+
+Page.Button({
+    Text = "Auto Speed",
+    Callback = function()
+       
+_G.AddSpeed = true
+while wait() and _G.AddSpeed do
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+end 
+    end
+})
+Page.Button({
+    Text = "Stop Auto Speed",
+    Callback = function()
+       
+_G.AddSpeed = false
+while wait() and _G.AddSpeed do
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer(900000000000000)
+end 
+    end
+})
+Page.Button({
+    Text = "Auto Rebirth",
+    Callback = function()
+       _G.Rebirth = true
+while wait() and _G.Rebirth do
+game:GetService("ReplicatedStorage").Remotes.Rebirth:FireServer()
+end 
+    end
+})
+Page.Button({
+    Text = "Stop Auto Rebirth",
+    Callback = function()
+       print("Clicked!") 
+    end
+})
